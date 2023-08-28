@@ -1,0 +1,7 @@
+.container{ width: auto; height: auto; }
+.body{width:auto;height: auto; }
+
+.header{padding-top: 5px ; padding-bottom: 5px;  width: 100%; height: 37.89px; text-align: center; background-color:#079167;font-style: arial;}
+
+.logo{padding-top: 30px;padding-left: 50px; padding-right: 10px;}
+.btn-group{padding-left: 40px;}
